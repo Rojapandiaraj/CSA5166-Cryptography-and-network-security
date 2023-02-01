@@ -1,0 +1,20 @@
+Enter 3x3 matrix for key (It should be inversible):
+6 24 1
+13 16 10
+20 17 15
+
+Enter a 3 letter string: act
+
+Encrypted string is: poh
+
+Inverse Matrix is:
+0.15873 -0.777778 0.507937
+0.0113379 0.15873 -0.106576
+-0.22449 0.857143 -0.489796
+
+Decrypted string is: act
+
+--------------------------------
+Process exited after 23.3 seconds with return value 0
+Press any key to continue . . .
+
